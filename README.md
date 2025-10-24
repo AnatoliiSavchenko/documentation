@@ -18,7 +18,7 @@ This is the documentation for [https://docs.npmjs.com/](https://docs.npmjs.com/)
 
 Do you want to know more? Check out our [contributing guide](CONTRIBUTING.md).
 
-## License
+License
 
 The npm product documentation in the content, and static folders are licensed under a [CC-BY 4.0 license](LICENSE).
 
